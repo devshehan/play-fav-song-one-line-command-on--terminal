@@ -1,7 +1,7 @@
 
 ## python script to play music on terminal
 ### note : 
-These command will work on linux/ macOS.
+These commands will work on linux/ macOS.
 
 ### step 1
 Make directory on your pc
